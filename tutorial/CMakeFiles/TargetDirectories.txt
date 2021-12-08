@@ -1,0 +1,17 @@
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/helloworld.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/wget.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/http_echo_server.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/http_proxy.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/parallel_wget.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/sort_task.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/matrix_multiply.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/http_file_server.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/graph_task.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/reducer.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/redis_cli.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/wget_to_redis.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/mysql_cli.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/server.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/client.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/edit_cache.dir
+/Users/alkaid/Projects/workflow/tutorial/CMakeFiles/rebuild_cache.dir
