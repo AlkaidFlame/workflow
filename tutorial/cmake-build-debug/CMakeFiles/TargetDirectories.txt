@@ -1,0 +1,17 @@
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/mysql_cli.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/server.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/wget_to_redis.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/reducer.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/client.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/graph_task.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/http_file_server.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/matrix_multiply.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/sort_task.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/wget.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/redis_cli.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/http_echo_server.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/parallel_wget.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/http_proxy.dir
+/Users/alkaid/Projects/workflow/tutorial/cmake-build-debug/CMakeFiles/helloworld.dir
