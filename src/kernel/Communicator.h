@@ -153,7 +153,7 @@ private:
 private:
 	struct timespec begin_time;
 	int timeout;
-	int passive;
+	int passive;    //Alkaid todo
 
 public:
 	CommSession() { this->passive = 0; }
@@ -197,7 +197,7 @@ private:
 		return socket(this->bind_addr->sa_family, SOCK_STREAM, 0);
 	}
 
-	virtual CommConnection *new_connection(int accept_fd)
+	virtual CommConnection * new_connection(int accept_fd)
 	{
 		return new CommConnection;
 	}

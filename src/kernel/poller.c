@@ -259,7 +259,7 @@ static inline long __timeout_cmp(const struct __poller_node *node1,
 
 	return ret;
 }
-
+//alkaid todo
 static void __poller_tree_insert(struct __poller_node *node, poller_t *poller)
 {
 	struct rb_node **p = &poller->timeo_tree.rb_node;
@@ -1041,7 +1041,7 @@ static int __poller_open_pipe(poller_t *poller)
 
 	if (pipe(pipefd) >= 0)
 	{
-		if (__poller_add_fd(pipefd[0], EPOLLIN, (void *)1, poller) >= 0)
+		if (__poller_add_fd(pipefd[0], EPOLLIN, (void *)1, poller) >= 0)    //alkaid todo poller中管道的用途
 		{
 			poller->pipe_rd = pipefd[0];
 			poller->pipe_wr = pipefd[1];

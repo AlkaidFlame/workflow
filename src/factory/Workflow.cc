@@ -154,7 +154,7 @@ SubTask *SeriesWork::pop_task()
 		if (this->callback)
 			this->callback(this);
 
-		if (!this->in_parallel)
+		if (!this->in_parallel) //alkaid todo
 			delete this;
 	}
 

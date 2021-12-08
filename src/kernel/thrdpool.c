@@ -31,7 +31,7 @@ struct __thrdpool
 	pthread_t tid;
 	pthread_mutex_t mutex;
 	pthread_cond_t cond;
-	pthread_key_t key;
+	pthread_key_t key;  //alkaid todo
 	pthread_cond_t *terminate;
 };
 

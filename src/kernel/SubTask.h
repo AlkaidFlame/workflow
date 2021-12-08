@@ -41,7 +41,7 @@ public:
 
 private:
 	ParallelTask *parent;
-	SubTask **entry;
+	SubTask **entry;    //alkaid todo
 	void *pointer;
 
 public:

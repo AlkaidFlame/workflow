@@ -62,7 +62,7 @@ struct CommConnEntry
 	mpoller_t *mpoller;
 	/* Connection entry's mutex is for client session only. */
 	pthread_mutex_t mutex;
-};
+};	//alkaid todo
 
 static inline int __set_fd_nonblock(int fd)
 {
@@ -165,7 +165,7 @@ int CommMessageIn::feedback(const void *buf, size_t size)
 	if (size == 0)
 		return 0;
 
-	ret = SSL_write(entry->ssl, buf, size);
+	ret = SSL_write(entry->ssl, buf, size);	//alkaid todo
 	if (ret <= 0)
 	{
 		ret = SSL_get_error(entry->ssl, ret);
@@ -213,7 +213,7 @@ void CommService::deinit()
 	free(this->bind_addr);
 }
 
-int CommService::drain(int max)
+int CommService::drain(int max)	//alkaid todo
 {
 	struct CommConnEntry *entry;
 	struct list_head *pos;
@@ -392,7 +392,7 @@ void Communicator::shutdown_service(CommService *service)
 #  define IOV_MAX	1024
 # endif
 #endif
-
+//alkaid todo
 int Communicator::send_message_sync(struct iovec vectors[], int cnt,
 									struct CommConnEntry *entry)
 {
@@ -471,7 +471,7 @@ int Communicator::send_message_sync(struct iovec vectors[], int cnt,
 
 	return 0;
 }
-
+//alkaid todo
 int Communicator::send_message_async(struct iovec vectors[], int cnt,
 									 struct CommConnEntry *entry)
 {
@@ -566,7 +566,7 @@ void Communicator::handle_incoming_request(struct poller_result *res)
 		{
 			__sync_add_and_fetch(&entry->ref, 1);
 			entry->state = CONN_STATE_IDLE;
-			list_add(&entry->list, &target->idle_list);
+			list_add(&entry->list, &target->idle_list); //alkaid todo
 		}
 
 		pthread_mutex_unlock(&target->mutex);
@@ -1211,7 +1211,7 @@ int Communicator::create_service_session(struct CommConnEntry *entry)
 	return -1;
 }
 
-poller_message_t *Communicator::create_message(void *context)
+poller_message_t *Communicator::create_message(void *context)   //alkaid todo
 {
 	struct CommConnEntry *entry = (struct CommConnEntry *)context;
 	CommSession *session;
@@ -1242,7 +1242,7 @@ poller_message_t *Communicator::create_message(void *context)
 		return NULL;
 	}
 
-	session = entry->session;
+ 	session = entry->session;
 	session->in = session->message_in();
 	if (session->in)
 	{
@@ -1253,7 +1253,7 @@ poller_message_t *Communicator::create_message(void *context)
 	return session->in;
 }
 
-int Communicator::partial_written(size_t n, void *context)
+int Communicator::partial_written(size_t n, void *context)   //alkaid todo
 {
 	struct CommConnEntry *entry = (struct CommConnEntry *)context;
 	CommSession *session = entry->session;
@@ -1264,7 +1264,7 @@ int Communicator::partial_written(size_t n, void *context)
 	return 0;
 }
 
-void Communicator::callback(struct poller_result *res, void *context)
+void Communicator::callback(struct poller_result *res, void *context)   //alkaid todo
 {
 	Communicator *comm = (Communicator *)context;
 	msgqueue_put(res, comm->queue);
@@ -1274,7 +1274,7 @@ void *Communicator::accept(const struct sockaddr *addr, socklen_t addrlen,
 						   int sockfd, void *context)
 {
 	CommService *service = (CommService *)context;
-	CommServiceTarget *target = new CommServiceTarget;
+	CommServiceTarget *target = new CommServiceTarget;	//alkaid todo
 
 	if (target)
 	{
@@ -1314,8 +1314,8 @@ int Communicator::create_handler_threads(size_t handler_threads)
 		if (i == handler_threads)
 			return 0;
 
-		msgqueue_set_nonblock(this->queue);
-		thrdpool_destroy(NULL, this->thrdpool);
+		msgqueue_set_nonblock(this->queue);  //alkaid todo
+		thrdpool_destroy(NULL, this->thrdpool); //alkaid todo
 	}
 
 	return -1;
@@ -1650,7 +1650,7 @@ int Communicator::reply(CommSession *session)
 	errno_bak = errno;
 	session->passive = 2;
 	target = session->target;
-	ret = this->reply_idle_conn(session, target);
+	ret = this->reply_idle_conn(session, target);   //alkaid todo
 	if (ret < 0)
 		return -1;
 

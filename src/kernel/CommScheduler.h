@@ -32,9 +32,9 @@ public:
 	size_t get_cur_load() { return this->cur_load; }
 
 private:
-	virtual CommTarget *acquire(int wait_timeout) = 0;
+	virtual CommTarget *acquire(int wait_timeout) = 0;  //alkaid todo
 
-protected:
+protected:  //alkaid todo
 	size_t max_load;
 	size_t cur_load;
 
@@ -123,7 +123,7 @@ public:
 
 	/* wait_timeout in milliseconds, -1 for no timeout. */
 	int request(CommSession *session, CommSchedObject *object,
-				int wait_timeout, CommTarget **target)
+				int wait_timeout, CommTarget **target)  //alkaid todo
 	{
 		int ret = -1;
 

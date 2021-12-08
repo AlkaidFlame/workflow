@@ -62,7 +62,7 @@ void msgqueue_set_block(msgqueue_t *queue)
 	queue->nonblock = 0;
 }
 
-static size_t __msgqueue_swap(msgqueue_t *queue)
+static size_t __msgqueue_swap(msgqueue_t *queue)    //alkaid todo
 {
 	void **get_head = queue->get_head;
 	size_t cnt;
@@ -73,8 +73,8 @@ static size_t __msgqueue_swap(msgqueue_t *queue)
 		pthread_cond_wait(&queue->get_cond, &queue->put_mutex);
 
 	cnt = queue->msg_cnt;
-	if (cnt > queue->msg_max - 1)
-		pthread_cond_broadcast(&queue->put_cond);
+	if (cnt > queue->msg_max - 1)   //alkaid todo
+	    pthread_cond_broadcast(&queue->put_cond);
 
 	queue->put_head = get_head;
 	queue->put_tail = get_head;
@@ -107,7 +107,7 @@ void *msgqueue_get(msgqueue_t *queue)
 	if (*queue->get_head || __msgqueue_swap(queue) > 0)
 	{
 		msg = (char *)*queue->get_head - queue->linkoff;
-		*queue->get_head = *(void **)*queue->get_head;
+		*queue->get_head = *(void **)*queue->get_head;   //alkaid todo
 	}
 	else
 	{
