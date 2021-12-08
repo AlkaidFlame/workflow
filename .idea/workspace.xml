@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tutorial" targetName="helloworld" />
+      <config projectName="tutorial" targetName="http_file_server" />
+      <config projectName="tutorial" targetName="sort_task" />
+      <config projectName="tutorial" targetName="graph_task" />
+      <config projectName="tutorial" targetName="parallel_wget" />
+      <config projectName="tutorial" targetName="server" />
+      <config projectName="tutorial" targetName="matrix_multiply" />
+      <config projectName="tutorial" targetName="wget_to_redis" />
+      <config projectName="tutorial" targetName="http_proxy" />
+      <config projectName="tutorial" targetName="redis_cli" />
+      <config projectName="tutorial" targetName="mysql_cli" />
+      <config projectName="tutorial" targetName="wget" />
+      <config projectName="tutorial" targetName="http_echo_server" />
+      <config projectName="tutorial" targetName="reducer" />
+      <config projectName="tutorial" targetName="client" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="caa3889d-cc25-4e47-a909-914ddb2f074f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/tutorial/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/gsyapi_gradle" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/minitask" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Douya-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/athena" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/coding-100/Web/iTalker" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/gs-spring-boot-docker-master/initial" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/kotlin-in-action-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/shape_android-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Spring Boot in Action/ch02" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Spring in Action/Chapter_19/mail" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Spring in Action/Chapter_21/contacts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_01/knight" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_02/stereo-autoconfig" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_02/stereo-javaconfig" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_02/stereo-mixedconfig" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_02/stereo-xmlconfig" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_03/conditional" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_03/externals" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_03/profiles" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_03/scopedbeans" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_05/Spittr" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_06/jsp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_07/Spittr" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_09/thymeleaf" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_10/jdbc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_11/hibernate4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_11/jpa-hibernate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_11/jpa-springdata" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_12/mongo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_12/redis" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_13/caching" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_14/methodsecurity" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_16/spitter-api-content-negotiation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_16/spitter-api-message-converters" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_17/amqp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_17/jms" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringiA4_SourceCode/Chapter_21/contacts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../android2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../athena" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../favorites-web/app" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gsyapi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../minitask" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../novel" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../qlive" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sagan" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager" selected="CMake Application.helloworld">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="client" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="graph_task" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="graph_task" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="graph_task">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloworld" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="helloworld" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="helloworld">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="http_echo_server" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="http_echo_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="http_echo_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="http_file_server" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="http_file_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="http_file_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="http_proxy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="http_proxy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="http_proxy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="matrix_multiply" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="matrix_multiply" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="matrix_multiply">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql_cli" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="mysql_cli" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="mysql_cli">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_wget" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="parallel_wget" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="parallel_wget">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="redis_cli" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="redis_cli" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="redis_cli">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reducer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="reducer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="reducer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="server" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sort_task" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="sort_task" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="sort_task">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wget" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="wget" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="wget">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wget_to_redis" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tutorial" TARGET_NAME="wget_to_redis" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tutorial" RUN_TARGET_NAME="wget_to_redis">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.client" />
+      <item itemvalue="CMake Application.graph_task" />
+      <item itemvalue="CMake Application.helloworld" />
+      <item itemvalue="CMake Application.http_echo_server" />
+      <item itemvalue="CMake Application.http_file_server" />
+      <item itemvalue="CMake Application.http_proxy" />
+      <item itemvalue="CMake Application.matrix_multiply" />
+      <item itemvalue="CMake Application.mysql_cli" />
+      <item itemvalue="CMake Application.parallel_wget" />
+      <item itemvalue="CMake Application.redis_cli" />
+      <item itemvalue="CMake Application.reducer" />
+      <item itemvalue="CMake Application.server" />
+      <item itemvalue="CMake Application.sort_task" />
+      <item itemvalue="CMake Application.wget" />
+      <item itemvalue="CMake Application.wget_to_redis" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caa3889d-cc25-4e47-a909-914ddb2f074f" name="Changes" comment="" />
+      <created>1638962958315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638962958315</updated>
+      <workItem from="1638962961067" duration="1772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

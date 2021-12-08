@@ -1,0 +1,257 @@
+[
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/IOService_thread.cc.o -c /Users/alkaid/Projects/workflow/src/kernel/IOService_thread.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/IOService_thread.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/mpoller.c.o -c /Users/alkaid/Projects/workflow/src/kernel/mpoller.c",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/mpoller.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/poller.c.o -c /Users/alkaid/Projects/workflow/src/kernel/poller.c",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/poller.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/rbtree.c.o -c /Users/alkaid/Projects/workflow/src/kernel/rbtree.c",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/rbtree.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/msgqueue.c.o -c /Users/alkaid/Projects/workflow/src/kernel/msgqueue.c",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/msgqueue.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/thrdpool.c.o -c /Users/alkaid/Projects/workflow/src/kernel/thrdpool.c",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/thrdpool.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/CommRequest.cc.o -c /Users/alkaid/Projects/workflow/src/kernel/CommRequest.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/CommRequest.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/CommScheduler.cc.o -c /Users/alkaid/Projects/workflow/src/kernel/CommScheduler.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/CommScheduler.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/Communicator.cc.o -c /Users/alkaid/Projects/workflow/src/kernel/Communicator.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/Communicator.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/Executor.cc.o -c /Users/alkaid/Projects/workflow/src/kernel/Executor.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/Executor.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/kernel",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/kernel.dir/SubTask.cc.o -c /Users/alkaid/Projects/workflow/src/kernel/SubTask.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/kernel/SubTask.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/util",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/util.dir/EncodeStream.cc.o -c /Users/alkaid/Projects/workflow/src/util/EncodeStream.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/util/EncodeStream.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/util",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/util.dir/StringUtil.cc.o -c /Users/alkaid/Projects/workflow/src/util/StringUtil.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/util/StringUtil.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/util",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/util.dir/URIParser.cc.o -c /Users/alkaid/Projects/workflow/src/util/URIParser.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/util/URIParser.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/util",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/util.dir/MD5Util.cc.o -c /Users/alkaid/Projects/workflow/src/util/MD5Util.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/util/MD5Util.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/manager",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/manager.dir/DnsCache.cc.o -c /Users/alkaid/Projects/workflow/src/manager/DnsCache.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/manager/DnsCache.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/manager",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/manager.dir/RouteManager.cc.o -c /Users/alkaid/Projects/workflow/src/manager/RouteManager.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/manager/RouteManager.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/manager",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/manager.dir/WFGlobal.cc.o -c /Users/alkaid/Projects/workflow/src/manager/WFGlobal.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/manager/WFGlobal.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/manager",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/manager.dir/UpstreamManager.cc.o -c /Users/alkaid/Projects/workflow/src/manager/UpstreamManager.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/manager/UpstreamManager.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/algorithm",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/algorithm.dir/DnsRoutine.cc.o -c /Users/alkaid/Projects/workflow/src/algorithm/DnsRoutine.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/algorithm/DnsRoutine.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/dns_parser.c.o -c /Users/alkaid/Projects/workflow/src/protocol/dns_parser.c",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/dns_parser.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/DnsMessage.cc.o -c /Users/alkaid/Projects/workflow/src/protocol/DnsMessage.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/DnsMessage.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/DnsUtil.cc.o -c /Users/alkaid/Projects/workflow/src/protocol/DnsUtil.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/DnsUtil.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/SSLWrapper.cc.o -c /Users/alkaid/Projects/workflow/src/protocol/SSLWrapper.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/SSLWrapper.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/http_parser.c.o -c /Users/alkaid/Projects/workflow/src/protocol/http_parser.c",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/http_parser.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/HttpMessage.cc.o -c /Users/alkaid/Projects/workflow/src/protocol/HttpMessage.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/HttpMessage.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/HttpUtil.cc.o -c /Users/alkaid/Projects/workflow/src/protocol/HttpUtil.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/HttpUtil.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/mysql_stream.c.o -c /Users/alkaid/Projects/workflow/src/protocol/mysql_stream.c",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/mysql_stream.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/mysql_parser.c.o -c /Users/alkaid/Projects/workflow/src/protocol/mysql_parser.c",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/mysql_parser.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/mysql_byteorder.c.o -c /Users/alkaid/Projects/workflow/src/protocol/mysql_byteorder.c",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/mysql_byteorder.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/MySQLMessage.cc.o -c /Users/alkaid/Projects/workflow/src/protocol/MySQLMessage.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/MySQLMessage.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/MySQLResult.cc.o -c /Users/alkaid/Projects/workflow/src/protocol/MySQLResult.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/MySQLResult.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow    -Wall -fPIC -pipe -std=gnu90 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/redis_parser.c.o -c /Users/alkaid/Projects/workflow/src/protocol/redis_parser.c",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/redis_parser.c"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/protocol",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/protocol.dir/RedisMessage.cc.o -c /Users/alkaid/Projects/workflow/src/protocol/RedisMessage.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/protocol/RedisMessage.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/factory",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/factory.dir/WFGraphTask.cc.o -c /Users/alkaid/Projects/workflow/src/factory/WFGraphTask.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/factory/WFGraphTask.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/factory",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/factory.dir/DnsTaskImpl.cc.o -c /Users/alkaid/Projects/workflow/src/factory/DnsTaskImpl.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/factory/DnsTaskImpl.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/factory",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/factory.dir/WFTaskFactory.cc.o -c /Users/alkaid/Projects/workflow/src/factory/WFTaskFactory.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/factory/WFTaskFactory.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/factory",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/factory.dir/Workflow.cc.o -c /Users/alkaid/Projects/workflow/src/factory/Workflow.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/factory/Workflow.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/factory",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/factory.dir/HttpTaskImpl.cc.o -c /Users/alkaid/Projects/workflow/src/factory/HttpTaskImpl.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/factory/HttpTaskImpl.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/factory",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/factory.dir/WFResourcePool.cc.o -c /Users/alkaid/Projects/workflow/src/factory/WFResourcePool.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/factory/WFResourcePool.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/factory",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/factory.dir/FileTaskImpl.cc.o -c /Users/alkaid/Projects/workflow/src/factory/FileTaskImpl.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/factory/FileTaskImpl.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/factory",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/factory.dir/MySQLTaskImpl.cc.o -c /Users/alkaid/Projects/workflow/src/factory/MySQLTaskImpl.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/factory/MySQLTaskImpl.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/factory",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/factory.dir/RedisTaskImpl.cc.o -c /Users/alkaid/Projects/workflow/src/factory/RedisTaskImpl.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/factory/RedisTaskImpl.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/nameservice",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/nameservice.dir/WFNameService.cc.o -c /Users/alkaid/Projects/workflow/src/nameservice/WFNameService.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/nameservice/WFNameService.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/nameservice",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/nameservice.dir/WFDnsResolver.cc.o -c /Users/alkaid/Projects/workflow/src/nameservice/WFDnsResolver.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/nameservice/WFDnsResolver.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/nameservice",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/nameservice.dir/WFServiceGovernance.cc.o -c /Users/alkaid/Projects/workflow/src/nameservice/WFServiceGovernance.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/nameservice/WFServiceGovernance.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/nameservice",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/nameservice.dir/UpstreamPolicies.cc.o -c /Users/alkaid/Projects/workflow/src/nameservice/UpstreamPolicies.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/nameservice/UpstreamPolicies.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/server",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/server.dir/WFServer.cc.o -c /Users/alkaid/Projects/workflow/src/server/WFServer.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/server/WFServer.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/server",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/server.dir/WFMySQLServer.cc.o -c /Users/alkaid/Projects/workflow/src/server/WFMySQLServer.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/server/WFMySQLServer.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/client",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/client.dir/WFDnsClient.cc.o -c /Users/alkaid/Projects/workflow/src/client/WFDnsClient.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/client/WFDnsClient.cc"
+},
+{
+  "directory": "/Users/alkaid/Projects/workflow/vscode-cmake-build/src/client",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/Users/alkaid/Projects/workflow/_include/workflow  -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/client.dir/WFMySQLConnection.cc.o -c /Users/alkaid/Projects/workflow/src/client/WFMySQLConnection.cc",
+  "file": "/Users/alkaid/Projects/workflow/src/client/WFMySQLConnection.cc"
+}
+]
